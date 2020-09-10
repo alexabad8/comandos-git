@@ -6,3 +6,4 @@ LISTA DE COMANDOS:
 * git log: muestra la lista de los commit
 * git commit --amend: hace modificaciones en el ultimo commit sin crear un nuevo commit
 * git checkout archivo: borra el ultico commit
+* git branch: muestra las ramas
